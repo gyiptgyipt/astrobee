@@ -1,0 +1,8 @@
+<map id="communications/comms_bridge/include/comms_bridge/bridge_publisher.h" name="communications/comms_bridge/include/comms_bridge/bridge_publisher.h">
+<area shape="rect" id="node1" title=" " alt="" coords="265,5,459,61"/>
+<area shape="rect" id="node2" href="$generic__rapid__msg__ros__pub_8h.html" title=" " alt="" coords="156,109,339,180"/>
+<area shape="rect" id="node6" href="$bridge__publisher_8cpp.html" title=" " alt="" coords="363,124,593,165"/>
+<area shape="rect" id="node3" href="$generic__rapid__sub_8h.html" title=" " alt="" coords="5,228,209,284"/>
+<area shape="rect" id="node4" href="$comms__bridge__nodelet_8cpp.html" title=" " alt="" coords="80,332,273,388"/>
+<area shape="rect" id="node5" href="$generic__rapid__msg__ros__pub_8cpp.html" title=" " alt="" coords="285,228,471,284"/>
+</map>
